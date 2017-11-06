@@ -4,8 +4,7 @@ A Survey on Hate Speech Detection using Natural Language Processing
 1. Simple surface feature: For hate speech detection, there may be difficulty while dealing with the words since humans are likely to make typed errors and it is really difficult for machines to cluster them together. In this paper, it introduces a way to attenuate the spelling variation problem often faced. (1) Character-level approaches are more likely to catch similarities to the canonical spellings. (2) Some other surface features:  Information on the frequency of URL mentions and punctuation, comment and token lengths, capitalization, words that cannot be found in English dictionaries, and the number of non-alpha numeric characters present in tokens.
 2. word generalization (1) word clustering: Brown clustering, assigns each individual word to one particular cluster. (2) neural networks for distributed word representations: paragraph embeddings much more efficient than the averaging of word embeddings. 
 3. sentiment analysis (1) classifier dedicated to detect negative polarity is applied prior to the classifier specifically checking for evidence of hate speech: features the number of positive, negative, and neutral words (according to a sentiment lexicon) occurring in a given comment text. (2) A publicly available polarity classifier which produces such an output is SentiStrength.
-4. Lexical Resources
-web
+4. Lexical Resources: web
 5. Linguistic Features
 (1) dependency relationships: pigs, Jews (2) praise rules: pre-defined good words
 6. Knowledge-Based Features
