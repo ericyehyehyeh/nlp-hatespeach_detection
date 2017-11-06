@@ -1,4 +1,6 @@
 https://aclanthology.info/pdf/W/W17/W17-1101.pdf
+A Survey on Hate Speech Detection using Natural Language Processing
+
 1. Simple surface feature: For hate speech detection, there may be difficulty while dealing with the words since humans are likely to make typed errors and it is really difficult for machines to cluster them together. In this paper, it introduces a way to attenuate the spelling variation problem often faced. (1) Character-level approaches are more likely to catch similarities to the canonical spellings. (2) Some other surface features:  Information on the frequency of URL mentions and punctuation, comment and token lengths, capitalization, words that cannot be found in English dictionaries, and the number of non-alpha numeric characters present in tokens.
 2. word generalization (1) word clustering: Brown clustering, assigns each individual word to one particular cluster. (2) neural networks for distributed word representations: paragraph embeddings much more efficient than the averaging of word embeddings. 
 3. sentiment analysis (1) classifier dedicated to detect negative polarity is applied prior to the classifier specifically checking for evidence of hate speech: features the number of positive, negative, and neutral words (according to a sentiment lexicon) occurring in a given comment text. (2) A publicly available polarity classifier which produces such an output is SentiStrength.
@@ -11,11 +13,21 @@ cannot be solved by simply looking at keywords in some situations.
 (1) ConceptNet model: computing the similarity of concepts of common knowledge with concepts expressed in user comments. Just for anti-LGBT bullying.
 7. Meta-inforamaton (1) background information about the user: number of posts by a user, the number of replies to a post, the average of the total number of replies per follower or the geographical origin. (2) not that reliable: may be helpful but it depends on the exact type of information one employs and also the source from which the data originate.
 8. classification methods: (1) Recurrent Neural Network Language Models
-(2) semi-supervised approaches, particularly bootstrapping.
+(2) semi-supervised approaches, particularly bootstrapping: 
 
+https://preventviolentextremism.info/sites/default/files/A%20Lexicon-Based%20Approach%20for%20Hate%20Speech%20Detection.pdf
+A Lexicon-based Approach for Hate Speech Detection 
 
+1. Sentence-level Subjectivity Detection: minimum cuts formulation to get with traditional bag-of-words features. remove objective sentences
+2. Lexicon Building: syntactic, structural and sentence level features are used in determining the semantic orientation of words and phrases to be included in an opinion lexicon to disambiguates the polarity.
+3. Hate Speech Detection: Social Network Analysis (SNA) techniques, multidimensional scaling (MDS) algorithm, Web mining and text mining techniques: TF-IDF score to extract contents in keywords.
+4. Proposed Approach (1)  Subjectivity Analysis (2) Lexicon for Hate Speech: Negative Polarity, Hate verbs and Theme-based Grammatical Patterns.
 
+http://delivery.acm.org/10.1145/1860000/1858721/p384-turian.pdf?ip=35.3.105.214&id=1858721&acc=OPEN&key=93447E3B54F7D979%2E0A17827594E6F2C8%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=1002671122&CFTOKEN=22393239&__acm__=1509987946_c2dc33bc7d128497e54f203efd7c7b86
+Word representations: A simple and general method for semi-supervised learning
 
+1. Distributional representations: matrix F of size W×C, . One can map F to matrix f of size W × d, where d  C, using some function g, where f = g(F). fw represents word w as a vector with d dimensions. 
+2. Brown clustering: maximize the mutual information of bigrams
 
 
 
