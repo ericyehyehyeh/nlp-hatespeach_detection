@@ -12,7 +12,7 @@ cannot be solved by simply looking at keywords in some situations.
 (1) ConceptNet model: computing the similarity of concepts of common knowledge with concepts expressed in user comments. Just for anti-LGBT bullying.
 7. Meta-inforamaton (1) background information about the user: number of posts by a user, the number of replies to a post, the average of the total number of replies per follower or the geographical origin. (2) not that reliable: may be helpful but it depends on the exact type of information one employs and also the source from which the data originate.
 8. classification methods: (1) Recurrent Neural Network Language Models
-(2) semi-supervised approaches, particularly bootstrapping: 
+(2) semi-supervised approaches, particularly bootstrapping.
 
 https://preventviolentextremism.info/sites/default/files/A%20Lexicon-Based%20Approach%20for%20Hate%20Speech%20Detection.pdf
 A Lexicon-based Approach for Hate Speech Detection 
