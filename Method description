@@ -1,1 +1,5 @@
-Method description, including evaluation methodol
+Method description, including evaluation method
+
+To classify the hate speech, we are going to utilize both supervised learning and unsupervised learning. For supervised learning, we will quickly follow the same idea in project one by using decision tree and random forest. Moreover, we will also try other supervised model such as logistic regression, naive Bayes.
+
+But in real world, we cannot get much labeled training data. And it is a also a tedious work to label them. So we will focus on unsupervised learning, like K-means and its variations, Hierarchical clustering, and also Spectral Clustering. 
