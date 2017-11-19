@@ -1,0 +1,653 @@
+abbo 0.0
+ABC 0.33
+ABCD 0.0
+abo 0.0
+abbo 0.0
+af 0.0
+African catfish 0.62
+Africoon 0.5
+Afro-Saxon 0.0
+albino 0.0
+alligator bait 1.0
+gator bait 1.0
+Americoon 1.0
+Amo 0.0
+anchor baby 0.33
+Angie 0.0
+Anglo 0.03
+Ann 0.0
+ape 0.56
+apple 0.0
+Argie 0.03
+Armo 0.0
+Aunt Jane 0.0
+Aunt Jemima 0.0
+Aunt Jane 0.0
+ Aunt Mary 0.0
+ Aunt Sally 0.0
+Aunt Mary 0.0
+Aunt Sally 0.0
+azn 0.0
+bamboo coon 0.93
+banana 0.0
+banana bender 0.05
+banana lander 0.05
+banana lander 0.0
+banjo lips 0.07
+bans and cans 0.13
+beach nigger 0.5
+bean dipper 0.0
+beaner 0.29
+beaney 0.29
+beaner shnitzel 0.33
+beaney 0.0
+Bengali 0.0
+bhrempti 0.0
+bint 0.07
+bird 0.06
+bitch 0.0
+bint 0.0
+bitter clinger 0.52
+bix nood 0.24
+black Barbie 0.0
+black dago 1.0
+blaxican 0.0
+blockhead 0.0
+bludger 0.0
+dole bludger 0.0
+bluegum 0.0
+bog hopper 0.0
+Bog Irish 0.0
+bog hopper 0.0
+ bog jumper 0.0
+ bog trotter 0.0
+bog jumper 0.0
+bog trotter 0.0
+bogan 0.1
+bong 0.0
+boo 0.0
+boojie 0.0
+book book 0.0
+buk buk 0.0
+boon 0.0
+booner 0.0
+boon 0.0
+boong 0.0
+bong 0.0
+ bung 0.0
+ bunga 0.0
+ boonga 0.0
+ boonie 0.0
+boonga 0.0
+boonie 0.0
+border bunny 0.0
+border hopper 0.0
+border jumper 0.0
+border nigger 1.0
+Bounty bar 0.66
+boxhead 0.89
+brass ankle 0.0
+brownie 0.0
+bubble 0.0
+buck 0.0
+buckethead 0.0
+buckra 0.0
+Buckwheat 0.0
+Buddhahead 0.0
+buffie 0.0
+bug eater 0.0
+buk buk 0.0
+bumblebee 0.0
+bung 0.0
+bunga 0.0
+burrhead 0.0
+butterhead 0.75
+cab nigger 0.79
+camel cowboy 0.0
+camel fucker 0.68
+camel humper 0.0
+camel jacker 0.0
+camel jockey 0.0
+camel cowboy 0.0
+ camel humper 0.0
+ camel jacker 0.0
+can eater 0.0
+carpet pilot 0.0
+carrot snapper 0.0
+Caublasian 0.0
+cave nigger 0.0
+celestial 0.0
+Charlie 0.0
+charva 0.0
+charver 0.0
+charver 0.0
+chav 0.03
+chee chee 0.0
+chi chi 0.0
+cheese eating surrender monkey 0.0
+surrender monkey 0.0
+chi chi 0.0
+chigger 0.0
+chili shitter 0.0
+Chinaman 0.26
+Chinese wetback 0.0
+ching chong 0.51
+chinig 0.0
+chink 0.66
+chink a billy 0.0
+chonky 0.0
+chunky 0.0
+Christ killer 0.86
+chug 0.0
+chunky 0.0
+clam 0.0
+clamhead 0.0
+clam 0.0
+closet fag 0.0
+closetfag 0.0
+closetfag 0.0
+cocoa 0.0
+Cocoa Puff 0.0
+Cocoa Puff 0.0
+coconut 0.0
+colored 0.93
+coloured 0.93
+coloured 0.0
+conchuda 0.96
+conspiracy theorist 0.0
+coolie 0.0
+coon 0.5
+coon ass 0.44
+cotton picker 0.0
+cow kisser 0.0
+cowboy killer 0.0
+cracker 0.65
+cripple 0.33
+crow 0.03
+cuck 0.0
+Cuckservative 0.34
+cuck 0.34
+cunt 0.56
+conchuda 0.56
+curry muncher 0.0
+curry slurper 0.0
+ curry stinker 0.0
+curry slurper 0.5
+curry stinker 0.0
+Cushi 0.0
+Cushite 0.0
+Cushi 0.0
+ Kushi 0.0
+ Kushite 0.0
+dago 0.38
+dego 0.38
+darkey 0.0
+darkie 0.0
+darky 0.0
+darkey 0.0
+ darkie 0.0
+dego 1.0
+dhimmi 0.0
+diaper head 0.17
+dinge 0.0
+dingo fucker 0.0
+dink 0.0
+div 0.0
+divvy 0.0
+divvy 0.06
+dogan 0.48
+dogun 0.48
+dogun 0.0
+dole bludger 0.0
+domes 0.0
+dot head 0.0
+dune coon 0.0
+dune nigger 0.5
+dyke 0.88
+dyke jumper 0.0
+egg 0.0
+eggplant 0.0
+eh hole 0.0
+eight ball 0.0
+eurotrash 0.88
+eyetie 0.43
+fag 0.49
+faggot 0.49
+ frocio 0.49
+ finocchio 0.49
+faggot 0.63
+Fairy 0.0
+fez 0.0
+finocchio 0.0
+FOB 0.0
+fog nigger 0.31
+four by two 0.0
+fresh off the boat 0.0
+FOB 0.0
+frocio 0.82
+frog 0.07
+fruit 0.0
+fuzzy 0.0
+fuzzy wuzzy 0.0
+gable 0.0
+gator bait 0.0
+Gerudo 0.0
+gew 0.0
+ghetto 0.0
+ghetto hamster 0.0
+ghost 0.0
+gin 0.0
+gin jockey 0.0
+gun burglar 0.0
+ginger 0.0
+ginzo 0.96
+gipp 0.0
+gippo 0.0
+globalist 0.0
+golliwog 0.0
+goober 0.06
+gook 0.5
+gooky 0.5
+ gook eye 0.5
+gook eye 0.0
+gooky 0.0
+greaseball 0.94
+greaser 0.94
+greaser 0.86
+groid 0.0
+guala 0.0
+guala guala 0.0
+guala guala 0.0
+gub 0.0
+gubba 0.0
+gubba 0.0
+guido 0.92
+guinea 1.0
+ginzo 1.0
+gun burglar 0.0
+gurrier 0.0
+Gwat 0.0
+gyp 1.0
+gypo 0.0
+gyppie 0.0
+gyppo 0.99
+gyp 0.99
+ gipp 0.99
+ gypo 0.99
+ gippo 0.99
+ gyppy 0.99
+ gyppie 0.99
+gyppy 0.0
+hairyback 0.0
+half breed 0.62
+halfrican 0.0
+hayseed 0.0
+hebe 0.5
+heeb 0.5
+hebro 0.0
+heeb 0.67
+heinie 0.0
+hick 0.5
+higger 1.0
+hillbilly 0.24
+ho 0.0
+hoe 0.0
+hoe 0.0
+holohoax 1.0
+honkey 0.25
+honkie 0.0
+honky 0.0
+honkey 0.0
+ honkie 0.0
+Honyak 0.0
+Honyock 0.0
+hoosier 0.0
+hoser 0.05
+house nigger 0.75
+Hun 0.0
+Hunkie 0.0
+Hunky 0.0
+Hunkie 0.0
+Hunyak 0.0
+Honyak 0.0
+ Honyock 0.0
+ Hunyock 0.0
+Hunyock 0.0
+hymie 1.0
+ice monkey 0.0
+ice nigger 0.21
+idiot 0.0
+ike 0.82
+ikey 0.73
+ike 0.73
+ iky 0.73
+ ikey mo 0.73
+ikey mo 0.28
+iky 0.0
+injun 0.0
+island nigger 0.75
+jant 0.24
+jhant 0.24
+Jap 0.0
+Whipped 0.0
+japie 0.0
+Jerry 0.0
+Jewbacca 0.65
+jhant 0.24
+jig 0.0
+jigaboo 0.58
+boo 0.58
+ jig 0.58
+ jigg 0.58
+ jigga 0.58
+ jigger 0.58
+ zigabo 0.58
+ jiggabo 0.58
+ jiggaboo 0.58
+ jijjiboo 0.58
+ jigarooni 0.58
+jigarooni 0.0
+jigg 0.0
+jigga 0.0
+jiggabo 0.0
+jiggaboo 0.0
+jigger 0.0
+Jihadi 0.45
+jijjiboo 0.5
+Jim Fish 0.0
+jock 0.13
+jocky 0.13
+ jockie 0.13
+jockie 0.0
+jocky 0.0
+jungle bunny 0.82
+Junior Mint 0.0
+khazar 0.0
+kike 0.85
+kyke 0.85
+knacker 0.5
+kotiya 0.0
+kraut 0.78
+Kushi 0.0
+Kushite 0.0
+kyke 0.0
+latrino 1.0
+lawn jockey 0.0
+Leb 0.0
+Lebbo 0.0
+Lebbo 0.0
+lefty 0.0
+lemonhead 0.0
+leprechaun 0.0
+limey 0.27
+ling ling 0.26
+lowlander 0.0
+lubra 0.0
+lugan 0.0
+mack 0.27
+mackerel snapper  0.0
+mangia cake 0.53
+Merkin 0.0
+mick 0.7
+mack 0.7
+ mickey 0.7
+ Mickey Finn 0.7
+mickey 0.0
+Mickey Finn 0.0
+mil bag 0.0
+millie 0.0
+moch 0.0
+mock 0.0
+mockey 0.0
+mockie 0.0
+mocky 0.0
+moch 0.0
+ mock 0.0
+ moky 0.0
+ moxy 0.0
+ mockey 0.0
+ mockie 0.0
+moke 0.0
+moky 0.0
+mong 0.0
+monkey 0.81
+mook 0.0
+moon cricket 0.0
+Moor 0.0
+moss eater 0.0
+mosshead 0.0
+moulie 0.24
+mulignan 0.24
+ moulignon 0.24
+ moulinyan 0.24
+moulignon 0.0
+moulinyan 0.36
+moxy 0.0
+MTN 0.0
+mud duck 0.0
+mud person 0.0
+mud duck 0.0
+mud shark 0.0
+muk 0.0
+muktuk 0.0
+muktuk 0.0
+mulato 0.24
+mulignan 0.51
+mung 0.0
+munt 0.0
+munter 0.0
+munt 0.0
+mutt 0.0
+muzzie 0.47
+nacho 0.0
+neche 0.0
+ned 0.0
+neechee 0.0
+neejee 0.0
+net head 0.0
+newfie 0.0
+nicca 1.0
+nichi 0.0
+nichiwa 0.0
+nidge 0.0
+nig 0.5
+nig nog 1.0
+nigar 1.0
+niger 1.0
+nigette 0.5
+nigga 0.68
+niggah 1.0
+niggar 1.0
+nigger 0.44
+nig 0.44
+ nicca 0.44
+ nigar 0.44
+ niger 0.44
+ nigga 0.44
+ nigor 0.44
+ nigra 0.44
+ nigre 0.44
+ niggah 0.44
+ niggar 0.44
+ niggor 0.44
+ nigguh 0.44
+ niggur 0.44
+ nig nog 0.44
+ nigette 0.44
+ niggress 0.44
+ spice nigger 0.44
+nigglet 0.0
+niggor 0.5
+niggress 1.0
+nigguh 0.67
+niggur 0.5
+niglet 0.85
+nigglet 0.85
+nigor 1.0
+nigra 1.0
+nigre 1.0
+nip 0.0
+nitchee 0.0
+nitchie 0.0
+neche 0.0
+ nichi 0.0
+ nidge 0.0
+ neejee 0.0
+ nitchy 0.0
+ neechee 0.0
+ nichiwa 0.0
+ nitchee 0.0
+nitchy 0.0
+Northern monkey 0.0
+ocker 0.0
+octaroon 0.0
+octroon 0.29
+octaroon 0.29
+ofay 0.0
+Orangie 0.0
+Oreo 0.0
+Oriental 0.0
+oven dodger 0.34
+paddy 0.0
+paki 0.7
+paleface 0.13
+pancake 1.0
+pancake face 1.0
+pancake face 0.0
+papist 0.37
+papoose 0.0
+peckerwood 0.48
+Pepper 0.0
+Pepsi 0.0
+Pepsi 0.0
+pickaninny 0.0
+piker 0.0
+pikey 0.52
+piky 0.52
+ piker 0.52
+piky 0.0
+pineapple nigger 0.37
+ping pang 0.0
+pinto 0.0
+plastic paddy 0.22
+pogue 0.0
+pohm 0.0
+pointy head 0.0
+polack 0.0
+pollo 0.0
+pom 0.0
+pohm 0.0
+ pommy 0.0
+ pommie 0.0
+ pommie grant 0.0
+pommie 0.0
+pommie grant 0.0
+pommy 0.0
+popolo 0.0
+poppadom 0.0
+porch monkey 0.69
+powderburn 0.0
+prairie nigger 0.75
+prod 0.0
+proddy dog 0.0
+ proddywoddy 0.0
+ proddywhoddy 0.0
+proddy dog 0.32
+proddywhoddy 0.5
+proddywoddy 0.0
+property 0.0
+Punjab 0.0
+pussy 0.27
+quadroon 0.0
+quashie 0.0
+queen 0.0
+queer 0.14
+race traitor 0.0
+raghead 0.5
+towel head 0.5
+ diaper head 0.5
+red bone 0.0
+redlegs 0.0
+redneck 0.0
+redskin 0.89
+retard 0.19
+retarded 0.19
+retarded 0.21
+Rhine monkey 0.58
+Rico Suave 0.0
+roofucker 0.93
+roundeye 0.02
+rube 0.0
+Russellite  0.0
+sambo 0.0
+sawney 0.0
+scag 0.0
+skag 0.0
+scallie 0.0
+scally 0.0
+scally 0.0
+scanger 0.0
+semihole 0.0
+senga 0.0
+seppo 0.0
+septic 0.0
+septic 0.0
+shade 0.0
+shant 0.0
+shanty Irish 0.0
+sheeny 1.0
+sheepfucker 0.5
+sheister 0.0
+Shelta 0.0
+shine 0.0
+shiner 0.0
+shiner 0.0
+shit heel 0.0
+shit kicker 0.0
+Shy 0.48
+Shylock 0.48
+Shy 0.48
+shyster 0.72
+sheister 0.72
+sideways cooter 0.0
+sideways pussy 0.48
+sideways vagina 0.67
+sideways pussy 0.67
+ sideways cooter 0.67
+skag 0.0
+skanger 0.0
+skinny 0.0
+Skip 0.0
+Skippy 0.0
+Skippy 0.0
+slag 0.1
+slant 0.0
+slant eye 0.0
+slant eye 1.0
+slit 0.0
+slope 0.0
+slopy 0.0
+ slopey 0.0
+ slopehead 0.0
+slopehead 0.0
+slopey 0.0
+slopy 0.0
+smoke jumper 0.0
+smoked Irish 0.0
+smoked Irishman 0.0
+smoked Irishman 0.03
+snout 0.0
+snowflake 0.0
+sole 0.0
+sooty 0.0
+soup taker  0.37
+Southern fairy 0.0
+spade 0.0
+spear chucker 0.86
+sperg 0.62
+spic 0.95
+spig 0.95
+ spik 0.95
+ spick 0.95
+ spigotty 0.95
+spice nigger 0.27
