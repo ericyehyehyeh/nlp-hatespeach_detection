@@ -1,0 +1,220 @@
+ABC 0.33
+African catfish 0.62
+Africoon 0.5
+alligator bait 1.0
+gator bait 1.0
+Americoon 1.0
+anchor baby 0.33
+ape 0.56
+bamboo coon 0.93
+beach nigger 0.5
+beaner shnitzel 0.33
+bitter clinger 0.52
+black dago 1.0
+border nigger 1.0
+Bounty bar 0.66
+boxhead 0.89
+butterhead 0.75
+cab nigger 0.79
+camel fucker 0.68
+ching chong 0.51
+chink 0.66
+Christ killer 0.86
+colored 0.93
+coloured 0.93
+conchuda 0.96
+coon 0.5
+coon ass 0.44
+cracker 0.65
+cripple 0.33
+Cuckservative 0.34
+cuck 0.34
+cunt 0.56
+conchuda 0.56
+curry slurper 0.5
+dago 0.38
+dego 0.38
+dego 1.0
+dogan 0.48
+dogun 0.48
+dune nigger 0.5
+dyke 0.88
+eurotrash 0.88
+eyetie 0.43
+fag 0.49
+faggot 0.49
+ frocio 0.49
+ finocchio 0.49
+faggot 0.63
+fog nigger 0.31
+frocio 0.82
+ginzo 0.96
+gook 0.5
+gooky 0.5
+ gook eye 0.5
+greaseball 0.94
+greaser 0.94
+greaser 0.86
+guido 0.92
+guinea 1.0
+ginzo 1.0
+gyp 1.0
+gyppo 0.99
+gyp 0.99
+ gipp 0.99
+ gypo 0.99
+ gippo 0.99
+ gyppy 0.99
+ gyppie 0.99
+half breed 0.62
+hebe 0.5
+heeb 0.5
+heeb 0.67
+hick 0.5
+higger 1.0
+holohoax 1.0
+house nigger 0.75
+hymie 1.0
+ike 0.82
+ikey 0.73
+ike 0.73
+ iky 0.73
+ ikey mo 0.73
+island nigger 0.75
+Jewbacca 0.65
+jigaboo 0.58
+boo 0.58
+ jig 0.58
+ jigg 0.58
+ jigga 0.58
+ jigger 0.58
+ zigabo 0.58
+ jiggabo 0.58
+ jiggaboo 0.58
+ jijjiboo 0.58
+ jigarooni 0.58
+Jihadi 0.45
+jijjiboo 0.5
+jungle bunny 0.82
+kike 0.85
+kyke 0.85
+knacker 0.5
+kraut 0.78
+latrino 1.0
+mangia cake 0.53
+mick 0.7
+mack 0.7
+ mickey 0.7
+ Mickey Finn 0.7
+monkey 0.81
+moulinyan 0.36
+mulignan 0.51
+muzzie 0.47
+nicca 1.0
+nig 0.5
+nig nog 1.0
+nigar 1.0
+niger 1.0
+nigette 0.5
+nigga 0.68
+niggah 1.0
+niggar 1.0
+nigger 0.44
+nig 0.44
+ nicca 0.44
+ nigar 0.44
+ niger 0.44
+ nigga 0.44
+ nigor 0.44
+ nigra 0.44
+ nigre 0.44
+ niggah 0.44
+ niggar 0.44
+ niggor 0.44
+ nigguh 0.44
+ niggur 0.44
+ nig nog 0.44
+ nigette 0.44
+ niggress 0.44
+ spice nigger 0.44
+niggor 0.5
+niggress 1.0
+nigguh 0.67
+niggur 0.5
+niglet 0.85
+nigglet 0.85
+nigor 1.0
+nigra 1.0
+nigre 1.0
+oven dodger 0.34
+paki 0.7
+pancake 1.0
+pancake face 1.0
+papist 0.37
+peckerwood 0.48
+pikey 0.52
+piky 0.52
+ piker 0.52
+pineapple nigger 0.37
+porch monkey 0.69
+prairie nigger 0.75
+proddy dog 0.32
+proddywhoddy 0.5
+raghead 0.5
+towel head 0.5
+ diaper head 0.5
+redskin 0.89
+Rhine monkey 0.58
+roofucker 0.93
+sheeny 1.0
+sheepfucker 0.5
+Shy 0.48
+Shylock 0.48
+Shy 0.48
+shyster 0.72
+sheister 0.72
+sideways pussy 0.48
+sideways vagina 0.67
+sideways pussy 0.67
+ sideways cooter 0.67
+slant eye 1.0
+soup taker  0.37
+spear chucker 0.86
+sperg 0.62
+spic 0.95
+spig 0.95
+ spik 0.95
+ spick 0.95
+ spigotty 0.95
+squarehead 1.0
+squaw 0.79
+tar baby 0.65
+timber nigger 0.96
+tranny 0.52
+uncivilised 0.34
+Uncle Tom 0.5
+wagon burner 1.0
+wetback 0.49
+border bunny 0.49
+ border hopper 0.49
+ border jumper 0.49
+ border nigger 0.49
+whigger 1.0
+white chocolate 0.48
+white nigger 0.75
+wigga 0.75
+ wigger 0.75
+ whigger 0.75
+ wiggerette 0.75
+white trash 0.61
+trash 0.61
+ trailer trash 0.61
+ trailer park trash 0.61
+whitey 0.71
+wog 0.55
+wop 1.0
+yellow bone 0.48
+red bone 0.48
+yid 0.5
+Zionazi 0.47
+ZOG lover 1.0
