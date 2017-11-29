@@ -12,9 +12,20 @@ B. Five Features
 5. [optional]: #nationality word + #ethnicity word + #gender word count
 6. offensive score defined by google api nlp: 2-gram before & after special word or hatebase word
 
-C. Package
-1. FuzzyWuzzy
-2. ...
+C: GOOGLE NLP API
+-- REMEMBER TO SET UP GOOGLE SERVICE ACCOUNT AND ENABLE IT:
+      https://cloud.google.com/docs/authentication/getting-started
+
+-- RUN THE FOLLOWING CODE, pip install google pip install google.cloud
+      from google.cloud import language
+      from google.cloud.language import enums
+      from google.cloud.language import types
+      client = language.LanguageServiceClient()
+      text = u'fuck u sucks'
+      document = types.Document(content=text,type=enums.Document.Type.PLAIN_TEXT)
+      sentiment = client.analyze_sentiment(document=document).document_sentiment
+      print('Sentiment: {}'.format(sentiment.score))
+• IF FAIL, follow the link to enable the NLP-API
 
 Things need to notice:
 0. !!! if no special word and hatebase word found, classify this sentence as normal and continue
