@@ -14,8 +14,7 @@ B. Five Features
 
 C. Package
 1. FuzzyWuzzy
-2. SKLearn
-3. ...
+2. ...
 
 Things need to notice:
 0. !!! if no special word and hatebase word found, classify this sentence as normal and continue
