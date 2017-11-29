@@ -32,3 +32,28 @@ Things need to notice:
       b) what if did not find hatebase word?
       c) what is found indian but did not find texi driver?
       d) !!! offensive score for 6 always exist: must exist special word or hatebase word, then do not consider this sentence
+      
+      
+      
+      
+      
+ ########clean data##########
+ Spelling correct package: 
+autocorrect
+>>> from autocorrect import spell
+>>> spell('HTe')
+
+enchant
+>>> import enchant
+>>> d = enchant.Dict("en_US")
+>>> d.check("Hello")
+True
+>>> d.check("Helo")
+False
+>>> d.suggest("Helo")
+['He lo', 'He-lo', 'Hello', 'Helot', 'Help', 'Halo', 'Hell', 'Held', 'Helm', 'Hero', "He'll"]
+
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
+fuzz.ratio('fking', 'fucking')
+
