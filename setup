@@ -1,0 +1,35 @@
+SETUP:
+A. Special Word:
+a) hatebase word in hate_all
+b) Racial word: set(racial_dict.keys() + nationality)
+c) Gender
+
+B. Five Features
+1. #pairs of f_word & special word
+2. min distance (#words) between f_word and special word
+3. [optional]: offensive word count from hatebase hate_all
+4. offensive score -- add up from hatebase
+5. [optional]: #nationality word + #ethnicity word + #gender word count
+6. offensive score defined by google api nlp: 2-gram before & after special word or hatebase word
+
+C. Package
+1. FuzzyWuzzy
+2. SKLearn
+3. ...
+
+Things need to notice:
+0. !!! if no special word and hatebase word found, classify this sentence as normal and continue
+
+1. fuzz.partial_ratio("taxi driver", "......(sentences)......") to check if sentence contain text driver
+## might want to check if taxi and driver are separate or together
+
+2. ?? f_word and special word(country, ethnicity) might have multiple pair, and different sequence, need to decide how to 
+   measure distance
+   
+3. ?? when using hatebase: find all hatebase word and MAX? AVG?
+
+4. ?? default valued needed to be set: 
+      a) what if no pair of f-word and special word found
+      b) what if did not find hatebase word?
+      c) what is found indian but did not find texi driver?
+      d) !!! offensive score for 6 always exist: must exist special word or hatebase word, then do not consider this sentence
