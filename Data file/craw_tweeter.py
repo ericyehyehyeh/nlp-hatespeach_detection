@@ -19,6 +19,13 @@ with open('data_craw.csv', 'w') as csvfile:
     csvHeader = ['tweet_text']
     csvCursor.writerow(csvHeader)
     username = 'realDonaldTrump'
-    
+    count = 0
+    maxcount = 3000
+    try:
     for tweet in tweepy.Cursor(api.user_timeline, screen_name = username).items():
-        csvCursor.writerow([tweet.text])
+            if count == maxcount:
+                break;
+            count += 1
+            print(tweet.text)
+    except:
+        print("no such user name")
